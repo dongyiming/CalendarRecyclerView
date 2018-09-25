@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="calendar_gridview">
+        <attr name="attr_week_bg" format="color" />
+        <attr name="attr_week_height" format="dimension" />
+        <attr name="attr_week_text_size" format="dimension" />
+        <attr name="attr_week_text_color" format="color" />
+        <attr name="attr_month_height" format="dimension" />
+        <attr name="attr_month_bg" format="color" />
+        <attr name="attr_month_text_size" format="dimension" />
+        <attr name="attr_month_text_color" format="color" />
+        <attr name="attr_day_item_height" format="dimension" />
+        <attr name="attr_day_item_bg" format="color" />
+        <attr name="attr_day_item_current_bg" format="color" />
+        <attr name="attr_day_item_selected_bg" format="color" />
+        <attr name="attr_day_item_null_bg" format="color" />
+        <attr name="attr_day_item_text_size" format="dimension" />
+        <attr name="attr_day_item_text_color" format="color" />
+        <attr name="attr_day_item_text_selected_color" format="color" />
+        <attr name="attr_day_item_margin_left" format="dimension" />
+        <attr name="attr_day_item_margin_right" format="dimension" />
+        <attr name="attr_day_item_margin_top" format="dimension" />
+        <attr name="attr_day_item_margin_bottom" format="dimension" />
+        <attr name="attr_day_item_padding" format="dimension" />
+        <attr name="attr_divider_height" format="dimension" />
+        <attr name="attr_divider_color" format="color" />
+        <attr name="attr_day_column_count" format="integer" />
+        <attr name="attr_day_row_count" format="integer" />
+    </declare-styleable>
+</resources>
